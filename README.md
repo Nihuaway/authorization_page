@@ -12,6 +12,7 @@
 # Дизайн
 Первая, и, возможно, итоговая версия дизайна
 
-![image](https://github.com/Nihuaway/authorization_page/assets/115393573/7d2d1135-d9bf-48d9-97e2-01ec564e3c64)
-![image](https://github.com/Nihuaway/authorization_page/assets/115393573/15d42c7d-d9e0-4764-97a5-aab3090592fb)
-![image](https://github.com/Nihuaway/authorization_page/assets/115393573/52e65e58-d03d-4292-a8eb-c82b1d155b68)
+![image](https://github.com/Nihuaway/authorization_page/assets/115393573/10b530d7-3b56-4f4b-84ed-4c0a2c4e71e5)
+![image](https://github.com/Nihuaway/authorization_page/assets/115393573/b9c94dc3-759b-4d8b-9641-c4911659907f)
+![image](https://github.com/Nihuaway/authorization_page/assets/115393573/d46b4e77-6a2a-4918-9d03-439198dddf52)
+
